@@ -1,0 +1,23 @@
+{
+  "name": "rotatr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rotatr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r043v/rotatr.git"
+  },
+  "author": "noferi mickaël",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r043v/rotatr/issues"
+  },
+  "homepage": "https://github.com/r043v/rotatr#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "lodash": "^4.17.10"
+  }
+}
